@@ -53,40 +53,39 @@
 	}
 	
 	window.obfuscate = {
-		"mainModule": "Bt",
-		"init": "o",
-		"free": "n",
-		"update": "c",
-		"render": "_t",
-		"sendMessage": "Ot",
-		"processGameUpdate": "zt",
-		"EmoteManager": "rt",
-		"camera": "Y",
-		"targetZoom": "k",
-		"activePlayer": "ut",
-		"input": "_e",
-		"keyPressed": "re",
-		"mousePressed": "oe",
-		"mouseDown": "se",
-		"smokeBarn": "Ze",
-		"smokePool": "e",
-		"map": "Oe",
-		"obstaclePool": "ie",
-		"buildingPool": "st",
-		"pool": "xe",
-		"playerBarn": "Le",
-		"playerPool": "de",
-		"playerInfo": "jt",
-		"activeId": "ht",
-		"objectCreator": "mt",	
-		"netData": "J", //keeps finding 'x'
-		"pieTimer": "it",
-		"lootBarn": "Je",
-		"closestLoot": "Lt",
-		"lootPool": "nt",
-		"localData": "$", //keeps finding 'n'
-		// "activeTimer": "$t",
-	    "cheatVersion": "0.30.0"
+	"mainModule": "Lt", 
+	"init": "o", 
+	"free": "n", 
+	"update": "c", 
+	"render": "_t", 
+	"sendMessage": "Ot", 
+	"processGameUpdate": "zt", 
+	"EmoteManager": "ot", 
+	"camera": "Y", 
+	"targetZoom": "k", "activePlayer": 
+	"gt", "input": "_e", 
+	"keyPressed": "re", 
+	"mousePressed": "oe", 
+	"mouseDown": "se", 
+	"smokeBarn": "Ze", 
+	"smokePool": "e", 
+	"map": "Oe", 
+	"obstaclePool": "ie", 
+	"buildingPool": "st", 
+	"pool": "xe", 
+	"playerBarn": "Re", 
+	"playerPool": "de", 
+	"playerInfo": "jt", 
+	"activeId": "ht", 
+	"objectCreator": "dt",	
+	"netData": "J", //keeps finding 'x' 
+	"pieTimer": "We", 
+	"lootBarn": "Je", 
+	"closestLoot": "Lt", 
+	"lootPool": "nt", 
+	"localData": "$", //keeps finding 'n' 
+	"activeTimer": "$t", 
+	"cheatVersion": "0.30.0"
 	};
 
 	var checkVersion = function () {
