@@ -682,7 +682,7 @@ window.gameFunctions.gameUpdate = function(){
 
 
 
-	if(game[obfuscate.pieTimer][obfuscate.activeTimer]  && game[obfuscate.pieTimer].clientData.label == "FRAG")
+	/* if(game[obfuscate.pieTimer][obfuscate.activeTimer]  && game[obfuscate.pieTimer].clientData.label == "FRAG")
 	{
 		if(!game[obfuscate.input].mouseButton)
 		{	
@@ -716,7 +716,7 @@ window.gameFunctions.gameUpdate = function(){
 			game[obfuscate.pieTimer].counterText._tint = 0xff0000;
 			game[obfuscate.pieTimer].labelText._tint = 0xff0000;
 		}
-	}
+	} */
 	// console.log(needToLoot());
 	
 	// Bump fire
